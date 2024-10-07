@@ -15,8 +15,8 @@ const Projects = () => {
     },
     {
       name: '3 Portfolio',
-      description: 'Fully responsive portfolio website built using React.js and Tailwind CSS.The website consists of multiple sections',
-      link: ''
+      description: 'Fully responsive portfolio website built using React.js Framer Motion and Tailwind CSS.The website consists of multiple sections',
+      link: 'https://tusharnetale.github.io/My-Portfolio/'
     },
     {
       name: '4 mobile website Landing page ',

@@ -45,7 +45,7 @@ const Navbar = () => {
       {/* Mobile Dropdown Menu */}
       {isOpen && (
         <div className="md:hidden bg-gray-700 mt-2 p-4 space-y-4">
-          {['Home', 'About', 'Projects', 'Contact'].map((item, index) => (
+          {['Home', 'About','Languages', 'Projects', 'Contact'].map((item, index) => (
             <motion.a
               key={index}
               href={`#${item.toLowerCase()}`}
